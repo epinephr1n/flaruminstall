@@ -10,11 +10,11 @@
 #==================================================================================
 
 #Change below to what you'd like
-MY_DOMAIN_NAME=mysite.ru # ваш домен
-MY_EMAIL=myemail@mail.ru # ваша почта
-DB_NAME=namedb # имя бд
-DB_USER=userdb # имя юзера дб
-DB_PSWD=passdb # пароль дб
+MY_DOMAIN_NAME=forhack.ru # ваш домен
+MY_EMAIL=m4tronin@gmail.com # ваша почта
+DB_NAME=m_forhack # имя бд
+DB_USER=aforhack # имя юзера дб
+DB_PSWD=Bimka4367@ # пароль дб
 
 SITES_AVAILABLE='/etc/nginx/sites-available/'
 
